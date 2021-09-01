@@ -1,8 +1,8 @@
-@import url(//db.onlinewebfonts.com/c/97c4b25dc74e0ab045154e75a8fdd69d?family=Game+of+Thrones);
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
 
 body{
     margin: 0;
-    font-family: 'Game of Thrones';
+    font-family: 'Libre Baskerville', serif;
     background-color: #EEDCBE;
 }
 
@@ -12,7 +12,7 @@ header{
 }
 
 .header-text {
-    font-size: 2rem;
+    font-size: 2.5rem;
     text-align: center;
     padding: 1rem;
     color:#df9418;
@@ -62,13 +62,13 @@ footer{
 }
 
 .footer-title {
-    font-size: 1.5rem;
+    font-size: 1.8rem;
     padding: 0.5rem;
 } 
 
 footer p {
     margin: auto;
-    font-size: 1rem;
+    font-size: 1.2rem;
     max-width: 600px;
     padding: 5px;
     margin-bottom: 1rem;
